@@ -35,52 +35,52 @@
   --doorhanger-icon-opacity: 0.9;
   --doorhanger-height: 8px;
 
-  --main-color: rgb(12 12 13);
-  --body-bg-color: rgb(212 212 215);
-  --progressBar-color: rgb(10 132 255);
-  --progressBar-bg-color: rgb(221 221 222);
-  --progressBar-blend-color: rgb(116 177 239);
-  --scrollbar-color: auto;
-  --scrollbar-bg-color: auto;
-  --toolbar-icon-bg-color: rgb(0 0 0);
-  --toolbar-icon-hover-bg-color: rgb(0 0 0);
+  --main-color: rgb(249 249 250);
+  --body-bg-color: rgb(219 220 230);
+  --progressBar-color: rgb(0 96 223);
+  --progressBar-bg-color: rgb(40 40 43);
+  --progressBar-blend-color: rgb(20 68 133);
+  --scrollbar-color: rgb(121 121 123);
+  --scrollbar-bg-color: rgb(35 35 39);
+  --toolbar-icon-bg-color: rgb(255 255 255);
+  --toolbar-icon-hover-bg-color: rgb(255 255 255);
 
-  --sidebar-narrow-bg-color: rgb(212 212 215 / 0.9);
-  --sidebar-toolbar-bg-color: rgb(245 246 247);
-  --toolbar-bg-color: rgb(249 249 250);
-  --toolbar-border-color: rgb(184 184 184);
+  --sidebar-narrow-bg-color: rgb(42 42 46 / 0.9); /* 42 42 46 / 0.9 */
+  --sidebar-toolbar-bg-color: rgb(52 58 64);  /* 50 50 52 */
+  --toolbar-bg-color: rgb(33 37 41);  /* 56 56 61 -> 33 37 41 */
+  --toolbar-border-color: rgb(12 12 13);
   --toolbar-box-shadow: 0 1px 0 var(--toolbar-border-color);
   --toolbar-border-bottom: none;
   --toolbarSidebar-box-shadow: inset calc(-1px * var(--dir-factor)) 0 0
       rgb(0 0 0 / 0.25),
     0 1px 0 rgb(0 0 0 / 0.15), 0 0 1px rgb(0 0 0 / 0.1);
   --toolbarSidebar-border-bottom: none;
-  --button-hover-color: rgb(221 222 223);
-  --toggled-btn-color: rgb(0 0 0);
+  --button-hover-color: rgb(102 102 103);
+  --toggled-btn-color: rgb(255 255 255);
   --toggled-btn-bg-color: rgb(0 0 0 / 0.3);
   --toggled-hover-active-btn-color: rgb(0 0 0 / 0.4);
   --toggled-hover-btn-outline: none;
-  --dropdown-btn-bg-color: rgb(215 215 219);
+  --dropdown-btn-bg-color: rgb(74 74 79);
   --dropdown-btn-border: none;
   --separator-color: rgb(0 0 0 / 0.3);
-  --field-color: rgb(6 6 6);
-  --field-bg-color: rgb(255 255 255);
-  --field-border-color: rgb(187 187 188);
-  --treeitem-color: rgb(0 0 0 / 0.8);
-  --treeitem-bg-color: rgb(0 0 0 / 0.15);
-  --treeitem-hover-color: rgb(0 0 0 / 0.9);
-  --treeitem-selected-color: rgb(0 0 0 / 0.9);
-  --treeitem-selected-bg-color: rgb(0 0 0 / 0.25);
-  --thumbnail-hover-color: rgb(0 0 0 / 0.1);
-  --thumbnail-selected-color: rgb(0 0 0 / 0.2);
-  --doorhanger-bg-color: rgb(255 255 255);
-  --doorhanger-border-color: rgb(12 12 13 / 0.2);
-  --doorhanger-hover-color: rgb(12 12 13);
-  --doorhanger-hover-bg-color: rgb(237 237 237);
-  --doorhanger-separator-color: rgb(222 222 222);
+  --field-color: rgb(250 250 250);
+  --field-bg-color: rgb(64 64 68);
+  --field-border-color: rgb(115 115 115);
+  --treeitem-color: rgb(255 255 255 / 0.8);
+  --treeitem-bg-color: rgb(255 255 255 / 0.15);
+  --treeitem-hover-color: rgb(255 255 255 / 0.9);
+  --treeitem-selected-color: rgb(255 255 255 / 0.9);
+  --treeitem-selected-bg-color: rgb(255 255 255 / 0.25);
+  --thumbnail-hover-color: rgb(255 255 255 / 0.1);
+  --thumbnail-selected-color: rgb(255 255 255 / 0.2);
+  --doorhanger-bg-color: rgb(74 74 79);
+  --doorhanger-border-color: rgb(39 39 43);
+  --doorhanger-hover-color: rgb(249 249 250);
+  --doorhanger-hover-bg-color: rgb(93 94 98);
+  --doorhanger-separator-color: rgb(92 92 97);
   --dialog-button-border: none;
-  --dialog-button-bg-color: rgb(12 12 13 / 0.1);
-  --dialog-button-hover-bg-color: rgb(12 12 13 / 0.3);
+  --dialog-button-bg-color: rgb(92 92 97);
+  --dialog-button-hover-bg-color: rgb(115 115 115);
 
   --loading-icon: url(images/loading.svg);
   --treeitem-expanded-icon: url(images/treeitem-expanded.svg);
