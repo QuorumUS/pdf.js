@@ -64,7 +64,7 @@
   --dropdown-btn-border: none;
   --separator-color: rgb(0 0 0 / 0.3);
   --field-color: rgb(250 250 250);
-  --field-bg-color: rgb(64 64 68);
+  --field-bg-color: rgb(52 58 64);  /* 64 64 68 */
   --field-border-color: rgb(115 115 115);
   --treeitem-color: rgb(255 255 255 / 0.8);
   --treeitem-bg-color: rgb(255 255 255 / 0.15);
